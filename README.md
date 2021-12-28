@@ -1,7 +1,7 @@
 # Introduction to Hardware Description Language
 "Logic gates and other sequential logics may seen in the form of Very High Speed Integrated Circuits Hardware Description Language."
 
-## Testbench
+# Testbench
 **Testbench** or **_testing workbench_** is used to verify the functional correctness of an HDL model.
 
 - tb_Lab2_1: Combinational Logic Circuit
